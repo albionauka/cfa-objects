@@ -3,4 +3,6 @@
 
 //then print out each value using a for loop
 
+//reassign one of the keys in the object to have a different value
+
 // write a function that takes in an object and key and returns that value at that key in the object
