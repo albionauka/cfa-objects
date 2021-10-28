@@ -5,4 +5,6 @@
 
 //reassign one of the keys in the object to have a different value
 
+// delete one of the properties in the object
+
 // write a function that takes in an object and key and returns that value at that key in the object
